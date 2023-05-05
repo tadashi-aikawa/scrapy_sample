@@ -1,0 +1,5 @@
+/.idea
+/.venv
+/full
+/result.json
+__pycache__
